@@ -26,5 +26,5 @@ The microcontroller processes the data and transmits it to an online platform us
 - Data can be monitored remotely
 - Helps detect overheating early
   
-Project Demo
+Project Video
 https://youtu.be/wGW1utfEto0 
