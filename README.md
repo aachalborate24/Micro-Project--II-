@@ -1,6 +1,10 @@
-# Micro-Project--II-
+# Micro-Project-II (Semester II - IIoT)
 Hybrid IOT Temperature Monitoing System for Hydraulic Oil
-Micro-Project--2
+
+Team Member:
+1. Charul Sawajkar(24009026)
+2. Aachal Borate(24009040)
+3. Divya Sharnagat(24009045)
 
 📖 Project Description
 
