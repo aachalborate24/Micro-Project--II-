@@ -25,3 +25,6 @@ The microcontroller processes the data and transmits it to an online platform us
 - Displays real-time temperature readings
 - Data can be monitored remotely
 - Helps detect overheating early
+  
+Project Demo
+https://youtu.be/wGW1utfEto0 
